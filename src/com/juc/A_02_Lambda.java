@@ -28,7 +28,7 @@ interface Foo {
 
 /**
  * Lambd表达式
- * 拷贝小括号	写死箭头	落地大括号
+ * 拷贝小括号	写死右箭头	落地大括号
  * @author zhaochao
  */
 public class A_02_Lambda {

@@ -24,7 +24,7 @@ public class A_02_channel {
 	 * 
 	 * java.nio.channels.Channel接口对应的实现类：
 	 * 	|--FileCHannel
-	 * 	|--SocketCHannel
+	 * 	|--SocketChannel
 	 *	|--ServerSocketChannel
 	 *	|--DatagramChannel
 	 * 
